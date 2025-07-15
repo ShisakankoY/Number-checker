@@ -9,9 +9,14 @@ JavaScriptで作ったシンプルな偶数・奇数判定ツールです。
 
 ##準備
 お好きなHTMLファイルに、
-'''<script src="https://shisakankoy.github.io/Number-checker/main.js"></script>
-'''と、
-'''<input id="test">,<button type="button" id="button">Check</button>,<div id="answer"></div>'''
+
+```
+<script src="https://shisakankoy.github.io/Number-checker/main.js"></script>
+```
+と、
+```
+<input id="test">,<button type="button" id="button">Check</button>,<div id="answer"></div>
+```
 を入れてください。
 
 ##ファイル構成
