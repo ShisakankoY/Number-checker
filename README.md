@@ -15,7 +15,9 @@ JavaScriptで作ったシンプルな偶数・奇数判定ツールです。
 ```
 と、
 ```
-<input id="test">,<button type="button" id="button">Check</button>,<div id="answer"></div>
+<input id="test">
+<button type="button" id="button">Check</button>
+<div id="answer"></div>
 ```
 を入れてください。
 
@@ -24,5 +26,7 @@ Number-checker/
 ├── index.html
 ├── Main.js
 ├── Module.js
-└── README.md
+├── README.md
+└── LICENSE
+
 
